@@ -1,4 +1,3 @@
-import React from "react";
 import Post from "./Index";
 
 export default function PostList({ posts }) {
